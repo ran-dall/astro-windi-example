@@ -9,8 +9,8 @@
     "preview": "astro preview"
   },
   "devDependencies": {
-    "astro": "^1.0.0-beta.69",
-    "vite-plugin-windicss": "^1.8.6",
+    "astro": "^1.0.0-beta.71",
+    "vite-plugin-windicss": "^1.8.7",
     "windicss": "^3.5.6"
   },
   "dependencies": {
