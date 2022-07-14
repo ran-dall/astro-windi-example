@@ -1,6 +1,6 @@
-# Welcome to [Astro](https://astro.build)
+# Welcome to [Astro](https://astro.build) & built with [Windicss](https://windicss.org)
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/basics)
+
 
 > 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
 
@@ -40,3 +40,5 @@ All commands are run from the root of the project, from a terminal:
 ## 👀 Want to learn more?
 
 Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+
+To understand more about windi reed [The documentation](https://windicss.org/features/)
