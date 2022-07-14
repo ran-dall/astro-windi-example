@@ -32,13 +32,15 @@ All commands are run from the root of the project, from a terminal:
 
 | Command           | Action                                       |
 | :---------------- | :------------------------------------------- |
-| `npm install`     | Installs dependencies                        |
-| `npm run dev`     | Starts local dev server at `localhost:3000`  |
-| `npm run build`   | Build your production site to `./dist/`      |
-| `npm run preview` | Preview your build locally, before deploying |
+| `pnpm install`     | Installs dependencies                        |
+| `pnpm run dev`     | Starts local dev server at `localhost:3000`  |
+| `pnpm run build`   | Build your production site to `./dist/`      |
+| `pnpm run preview` | Preview your build locally, before deploying |
 
 ## 👀 Want to learn more?
 
 Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
 
 To understand more about windi reed [The documentation](https://windicss.org/features/)
+
+[![Use this template](https://img.shields.io/badge/use%20this%20template-brightgreen.svg?logo=github&longCache=true&style=for-the-badge)](https://github.com/jojojojojoj5564656465465/astro-windi-example/generate)
