@@ -1,0 +1,8 @@
+{
+    "editor.formatOnSave": true,
+"windicss.includeLanguages": {
+  "astro":"js"
+  },
+  "windicss.enableEmmetCompletion": true,
+
+}
